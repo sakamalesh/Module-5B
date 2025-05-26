@@ -11,7 +11,7 @@ To write a **NumPy** program that sorts the elements in each column of a given 2
 4. **Store Result**: Store the sorted result in a new array.
 5. **Display Output**: Print the original array and the column-wise sorted array.
 
-## 🧾 Program
+## 🧾 Programa
 ```
 import numpy as np
 x=np.array(eval(input()))
